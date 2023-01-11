@@ -1,0 +1,15 @@
+.converter {
+    max-width: 500px;
+    display: flex;
+    justify-content:space-between;
+}
+button.button {
+    width:100px;
+    border: 1px solid rgb(229, 47, 47);
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #fff;
+}
+button.button:hover {
+    background-color: gray;
+}
